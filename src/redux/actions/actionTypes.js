@@ -1,2 +1,0 @@
-export const SESSION_LOGIN = 'SESSION_LOGIN';
-export const USER_SIGNUP = 'USER_SIGNUP';
