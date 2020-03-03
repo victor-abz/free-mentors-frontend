@@ -1,5 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./app.scss";
 
-ReactDOM.render(<App />, document.getElementById('root'));
+const Index = () => {
+  return <div>Hello React!</div>;
+};
+
+ReactDOM.render(<Index />, document.getElementById("root"));
